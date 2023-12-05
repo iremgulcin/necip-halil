@@ -60,11 +60,18 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 ### Installation
 
+
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/real-time-forest-fire-detection.git
 cd real-time-forest-fire-detection
+```
+
+### Install dependencies:
+bash
+Copy code
+pip install -r requirements.txt
 Run the main script:
 bash
 Copy code
@@ -76,7 +83,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Special thanks to UNDP and Samsung's Innovation Campus AI program for their collaboration.
+Special thanks to UNDP and Samsung's innovation AI program for their collaboration.
 Prof. Dr. Taşkın Kavzoğlu's insights on forest fires provided valuable guidance.
 UAV Image
 
@@ -85,3 +92,5 @@ Here are some snapshots showcasing our real-time forest fire detection system in
 
 Snapshot 1
 Snapshot 2
+
+
