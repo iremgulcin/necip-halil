@@ -8,7 +8,7 @@ class Cam:
     def __init__(self):
 
         self.rtsp_url = "rtsp://admin:Grundig1234@191.0.51.223:554/Streaming/Channels/2"
-        # self.username = "admin"  # Kullanıcı adı
+        # self.username = "halil123"  # Kullanıcı adı
         # self.password = "Grunding1234"  # Şifre
 
     def read_with_ai(self, ai):
