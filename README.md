@@ -1,6 +1,6 @@
 # Real-Time Forest Fire Detection
 
-![Forest Fire](assets/fire_image.jpg](https://github.com/iremgulcin/necip-halil/blob/main/Forest_Fire.jpg))
+![Forest Fire]assets/fire_image.jpg] https://github.com/iremgulcin/necip-halil/blob/main/Forest_Fire.jpg
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
